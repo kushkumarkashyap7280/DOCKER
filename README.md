@@ -1,0 +1,144 @@
+<div align="center">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker Logo" width="200"/>
+  
+  # 🐳 Docker Learning Repository
+  
+  **A comprehensive guide to mastering Docker containerization**
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+  ![Learning](https://img.shields.io/badge/Learning-Progress-blue?style=for-the-badge)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
+</div>
+
+---
+
+## 📖 About This Repository
+
+Welcome to the **Docker Learning Repository**! This is a hands-on learning resource designed to take you from Docker basics to advanced containerization concepts. Each part builds upon the previous one, providing practical examples and real-world scenarios.
+
+> **Note:** This is a learning-focused repository with step-by-step tutorials, examples, and best practices for Docker containerization.
+
+## 🚀 Repository Structure
+
+```
+📦 DOCKER/
+├── 📁 part_001/           # Docker Basics & Installation
+│   └── README.md          # Getting started with Docker
+└── README.md              # This file
+```
+
+## 📚 Learning Path
+
+### 🟢 Part 1: Docker Basics & Installation
+**Status: ✅ Complete**
+- Docker installation on Linux
+- Basic Docker commands
+- Working with images and containers
+- Container lifecycle management
+- Cleanup operations
+
+**[📖 Start with Part 1](./part_001/README.md)**
+
+*More parts will be added as they are created...*
+
+## 🎯 Learning Objectives
+
+By the end of this tutorial series, you will be able to:
+
+- ✅ Install and configure Docker on various Linux distributions
+- ✅ Understand Docker architecture and core concepts
+- ✅ Create, run, and manage Docker containers
+- 🔄 Build custom Docker images using Dockerfiles *(upcoming)*
+- 🔄 Orchestrate multi-container applications *(upcoming)*
+- 🔄 Implement Docker networking and volume management *(upcoming)*
+- 🔄 Apply security best practices for containerized applications *(upcoming)*
+- 🔄 Deploy Docker applications in production environments *(upcoming)*
+
+## 🛠️ Prerequisites
+
+- Basic understanding of Linux command line
+- Familiarity with terminal/bash operations
+- Understanding of basic networking concepts (helpful but not required)
+
+## 💻 Supported Platforms
+
+This tutorial is tested and verified on:
+
+- **Ubuntu 20.04 LTS / 22.04 LTS**
+- **Debian 11/12**
+- **CentOS 8/9**
+- **RHEL 8/9**
+- **Fedora 36+**
+
+## 🚀 Quick Start
+
+1. **Clone this repository:**
+   ```bash
+   git clone <repository-url>
+   cd DOCKER
+   ```
+
+2. **Start with Part 1:**
+   ```bash
+   cd part_001
+   cat README.md
+   ```
+
+3. **Follow the installation guide** and begin your Docker journey!
+
+## 📋 What You'll Learn
+
+### Core Concepts
+- Containerization vs Virtualization
+- Docker architecture and components
+- Images, containers, and registries
+- Docker daemon and client
+
+### Practical Skills
+- Docker CLI mastery
+- Image management and optimization
+- Container networking and volumes
+- Application deployment strategies
+
+### Best Practices
+- Security considerations
+- Performance optimization
+- Production deployment patterns
+- Troubleshooting techniques
+
+## 🤝 Contributing
+
+This is a learning repository! Feel free to:
+
+- **Submit issues** for corrections or improvements
+- **Suggest new topics** for additional parts
+- **Share your learning experience** and feedback
+- **Contribute examples** and use cases
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Support & Community
+
+- 🐛 **Issues**: Report bugs or request features via GitHub Issues
+- 💡 **Discussions**: Share ideas and ask questions in GitHub Discussions
+- 📧 **Contact**: Reach out for collaboration or questions
+
+## 🎉 Acknowledgments
+
+- **Docker Inc.** for creating this amazing containerization technology
+- **The Docker Community** for extensive documentation and support
+- **Open Source Contributors** who make learning resources possible
+
+---
+
+<div align="center">
+  
+  **⭐ Star this repository if it helps you learn Docker! ⭐**
+  
+  Made with ❤️ for the Docker learning community
+  
+</div>
