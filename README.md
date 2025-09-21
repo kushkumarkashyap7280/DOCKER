@@ -26,6 +26,8 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 📦 DOCKER/
 ├── 📁 part_001/           # Docker Basics & Installation
 │   └── README.md          # Getting started with Docker
+├── 📁 part_002/           # Advanced Commands & Container Management
+│   └── README.md          # Docker commands, flags, and concepts
 └── README.md              # This file
 ```
 
@@ -41,6 +43,19 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 
 **[📖 Start with Part 1](./part_001/README.md)**
 
+### 🟢 Part 2: Advanced Commands & Container Management
+**Status: ✅ Complete**
+- Complete Docker command overview
+- Understanding `run` vs `start`, `-it` vs `-d` flags
+- Container lifecycle management
+- Building custom images
+- Port mapping and networking
+- Environment variables
+- Docker registry operations
+- Common troubleshooting scenarios
+
+**[📖 Continue with Part 2](./part_002/README.md)**
+
 *More parts will be added as they are created...*
 
 ## 🎯 Learning Objectives
@@ -50,7 +65,10 @@ By the end of this tutorial series, you will be able to:
 - ✅ Install and configure Docker on various Linux distributions
 - ✅ Understand Docker architecture and core concepts
 - ✅ Create, run, and manage Docker containers
-- 🔄 Build custom Docker images using Dockerfiles *(upcoming)*
+- ✅ Master Docker command differences (run vs start, -it vs -d)
+- ✅ Build custom Docker images from Dockerfiles
+- ✅ Manage port mapping and environment variables
+- ✅ Push and pull images from Docker registries
 - 🔄 Orchestrate multi-container applications *(upcoming)*
 - 🔄 Implement Docker networking and volume management *(upcoming)*
 - 🔄 Apply security best practices for containerized applications *(upcoming)*
