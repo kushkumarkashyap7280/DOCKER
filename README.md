@@ -28,6 +28,8 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 │   └── README.md          # Getting started with Docker
 ├── 📁 part_002/           # Advanced Commands & Container Management
 │   └── README.md          # Docker commands, flags, and concepts
+├── 📁 part_003/           # Docker Compose & Multi-Container Apps
+│   └── README.md          # Container orchestration with Docker Compose
 └── README.md              # This file
 ```
 
@@ -56,6 +58,19 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 
 **[📖 Continue with Part 2](./part_002/README.md)**
 
+### 🟢 Part 3: Docker Compose & Multi-Container Applications
+**Status: ✅ Complete**
+- Introduction to Docker Compose
+- Multi-container application orchestration
+- Service configuration with docker-compose.yml
+- PostgreSQL and Redis integration
+- Container networking and communication
+- Environment variable management
+- Service logs and monitoring
+- Production best practices
+
+**[📖 Learn Docker Compose in Part 3](./part_003/README.md)**
+
 *More parts will be added as they are created...*
 
 ## 🎯 Learning Objectives
@@ -69,7 +84,7 @@ By the end of this tutorial series, you will be able to:
 - ✅ Build custom Docker images from Dockerfiles
 - ✅ Manage port mapping and environment variables
 - ✅ Push and pull images from Docker registries
-- 🔄 Orchestrate multi-container applications *(upcoming)*
+- ✅ Orchestrate multi-container applications with Docker Compose
 - 🔄 Implement Docker networking and volume management *(upcoming)*
 - 🔄 Apply security best practices for containerized applications *(upcoming)*
 - 🔄 Deploy Docker applications in production environments *(upcoming)*
