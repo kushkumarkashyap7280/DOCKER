@@ -30,6 +30,8 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 │   └── README.md          # Docker commands, flags, and concepts
 ├── 📁 part_003/           # Docker Compose & Multi-Container Apps
 │   └── README.md          # Container orchestration with Docker Compose
+├── 📁 part_004/           # Docker Networking & Volumes
+│   └── README.md          # Network modes, custom networks, and data persistence
 └── README.md              # This file
 ```
 
@@ -71,6 +73,19 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 
 **[📖 Learn Docker Compose in Part 3](./part_003/README.md)**
 
+### 🟢 Part 4: Docker Networking & Volumes
+**Status: ✅ Complete**
+- Docker networking fundamentals and modes
+- Bridge, host, and none network configurations
+- Custom networks and container communication
+- Service discovery and inter-container networking
+- Volume management and data persistence
+- Bind mounts vs named volumes
+- Network and volume troubleshooting
+- Production networking and storage strategies
+
+**[📖 Master Networking & Volumes in Part 4](./part_004/README.md)**
+
 *More parts will be added as they are created...*
 
 ## 🎯 Learning Objectives
@@ -85,7 +100,7 @@ By the end of this tutorial series, you will be able to:
 - ✅ Manage port mapping and environment variables
 - ✅ Push and pull images from Docker registries
 - ✅ Orchestrate multi-container applications with Docker Compose
-- 🔄 Implement Docker networking and volume management *(upcoming)*
+- ✅ Implement Docker networking and volume management
 - 🔄 Apply security best practices for containerized applications *(upcoming)*
 - 🔄 Deploy Docker applications in production environments *(upcoming)*
 
