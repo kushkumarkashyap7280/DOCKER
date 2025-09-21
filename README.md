@@ -32,6 +32,8 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 │   └── README.md          # Container orchestration with Docker Compose
 ├── 📁 part_004/           # Docker Networking & Volumes
 │   └── README.md          # Network modes, custom networks, and data persistence
+├── 📁 part_005/           # Docker Best Practices & Optimization
+│   └── README.md          # Multi-stage builds, security, and production optimization
 └── README.md              # This file
 ```
 
@@ -86,6 +88,19 @@ Welcome to the **Docker Learning Repository**! This is a hands-on learning resou
 
 **[📖 Master Networking & Volumes in Part 4](./part_004/README.md)**
 
+### 🟢 Part 5: Docker Best Practices & Optimization
+**Status: ✅ Complete**
+- Dockerfile evolution from basic to production-ready
+- Multi-stage builds for optimized images
+- .dockerignore files and build context optimization
+- Image size reduction and layer caching strategies
+- Security best practices and non-root containers
+- Performance optimization techniques
+- Production-ready containerization patterns
+- Common anti-patterns and how to avoid them
+
+**[📖 Optimize with Best Practices in Part 5](./part_005/README.md)**
+
 *More parts will be added as they are created...*
 
 ## 🎯 Learning Objectives
@@ -101,7 +116,8 @@ By the end of this tutorial series, you will be able to:
 - ✅ Push and pull images from Docker registries
 - ✅ Orchestrate multi-container applications with Docker Compose
 - ✅ Implement Docker networking and volume management
-- 🔄 Apply security best practices for containerized applications *(upcoming)*
+- ✅ Apply security best practices for containerized applications
+- ✅ Optimize Docker images with multi-stage builds and best practices
 - 🔄 Deploy Docker applications in production environments *(upcoming)*
 
 ## 🛠️ Prerequisites
